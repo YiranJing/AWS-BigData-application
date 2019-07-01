@@ -1,6 +1,4 @@
-# BigDataAnalysis
-
-### Recommended Reading [Power Demand Foreast](../master/MachineLearningTimeSeries/Report.pdf) 🙂
+# Big Data Analysis
 
 
 ### Projects:
