@@ -1,2 +1,9 @@
 # BigDataAnalysis
-Projects related tp SQL, Hadoop, Flink, AWS SageMaker and Google Map API
+
+### Recommended Reading [Power Demand Foreast](../master/MachineLearningTimeSeries/Report.pdf) 🙂
+
+
+### Projects:
+- [Walkability Analysis](../master/WalkabilityAnalysis/report.pdf) Perform a walkability analysis for different neighbourhoods in the Greater Sydney area using SQL and Google Map API (DATA2001)
+- [Big Data Turning](../master/BigDataTuningFlink/Final-DATA3404-Report.pdf) Optimise Queries for scalability on increasing data volumes using Hadoop and Flink (DATA3404)
+- AWS ML Models
