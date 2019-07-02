@@ -1,18 +1,17 @@
-# Data3404 Data Science Platforms
-Semester 1, 2019 
-Optimise Queries for scalability on increasing data volumes
-
-## Big Data Tuning Assignment
-- data: air trafficdata set
-- process: write a series of Apache Flink programs to analyze aair traffic data set and then optimise your programs for scalability on increasing data volumes. 
-- results: [Report](../master/Final-DATA3404-Report.pdf) 
-
-- Example of scalability Optimization
-<img width="1047" alt="Screen Shot 2019-06-29 at 9 38 57 pm" src="https://user-images.githubusercontent.com/31234892/60383606-6faf5e00-9ab6-11e9-97f2-c0b363f4dcb7.png">
-
-
-
+# Telecom Customer Churn Prediction
+Customer attrition, also known as customer churn, customer turnover, or customer defection, is the loss of clients or customers. (Data resource from Kaggle)
 ## Author
-- Chris Hyland
 - Yiran Jing
-- Jazlyn Lin
+
+### Main Content within this Project
+- I show the example that how to read in data from **S3 buckets** and the **proper way to creat datafiles in S3**
+- The example that how to use **Amazon sageMaker buildin ML model** to train, deploy and validate GXBoost model using **Batch Transformation** for Telecom Customer Churn.
+- The example that how to **create customised ML model used in Amazon sageMaker** using Batch Transformation.
+- My way of data cleaning ang data engineering with plot visualization, differ from the Kaggle open resources. 
+
+
+
+
+**Reference** (Kaggle Competition) [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn/kernels) 
+
+### [About Me](https://github.com/YiranJing/AboutMe/blob/master/README.md) 🌱
