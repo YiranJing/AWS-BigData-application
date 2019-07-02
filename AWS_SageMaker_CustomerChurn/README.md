@@ -1,5 +1,5 @@
 # Telecom Customer Churn Prediction
-Customer attrition, also known as customer churn, customer turnover, or customer defection, is the loss of clients or customers. (Data resource from Kaggle)
+Customer attrition, also known as customer churn, customer turnover, or customer defection, is the loss of clients or customers. (Data resource from Kaggle) [Telco Customer Churn Data](https://www.kaggle.com/blastchar/telco-customer-churn/kernels) 
 ## Author
 - Yiran Jing
 
@@ -11,7 +11,5 @@ Customer attrition, also known as customer churn, customer turnover, or customer
 
 
 
-
-**Reference** (Kaggle Competition) [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn/kernels) 
 
 ### [About Me](https://github.com/YiranJing/AboutMe/blob/master/README.md) 🌱
