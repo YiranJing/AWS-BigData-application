@@ -4,7 +4,7 @@ Customer attrition, also known as customer churn, customer turnover, or customer
 - Yiran Jing
 
 
-## AWS Storage
+# AWS Storage
 ### Read and Write to S3 bucket
 - I show the example that how to read in data from **S3 buckets** and the **proper way to creat datafiles in S3**   [My SageMaker Notes](https://github.com/YiranJing/BigDataAnalysis/blob/master/AWS_SageMaker_CustomerChurn/SageMakerNotes/TrainDeployBuildinModel.pdf)
 
