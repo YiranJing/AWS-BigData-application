@@ -24,7 +24,7 @@ coming soon
 
 ## Amazon Compute: AWS Lambda
 ### Part 1: AWS Lambda Functions on S3 Event Triggers invoking (ML model) endpoint 
-coming soon
+Using the built XGBoost endpoint from [Amazon Sagemaker of Customer Churn](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_SageMaker_CustomerChurn/notebook/AmazonSageMaker). You can find [Notes](https://github.com/YiranJing/BigDataAnalysis/blob/master/AWS_lambda_CustomerChurn/Lambda_Function_Notes.pdf) here. And the [source code](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_lambda_CustomerChurn/MyFirstFunction)
 ### Part 2: Clean data within AWS Lambda Function
 Install and using Pandas and Numpy in AWS Lambda execution environment. 
 
