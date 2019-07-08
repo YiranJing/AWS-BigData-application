@@ -18,9 +18,7 @@ Customer attrition, also known as customer churn, customer turnover, or customer
 - The example that how to **create customised ML model used in Amazon sageMaker** using use **Lambda functions** to run batch transform jobs and to clean the data. Details see: [Customised XGBoost Amazon SageMaker Notebook](https://github.com/YiranJing/BigDataAnalysis/blob/master/AWS_SageMaker_CustomerChurn/notebook/AmazonSageMaker/AWS_CUSTOMISED_MODEL_DEPLOYMENT.ipynb)
 
 ## AWS Machine Learning: Amazon Forecast
-Time series forecasting combining related data and ML models.
-
-coming soon
+A managed time series forecasting service that uses AWS machine learning technology.
 
 ## Amazon Compute: AWS Lambda
 ### Part 1: AWS Lambda Functions on S3 Event Triggers invoking (ML model) endpoint 
