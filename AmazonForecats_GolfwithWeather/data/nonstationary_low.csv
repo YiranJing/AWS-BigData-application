@@ -1,0 +1,672 @@
+2010-01-01,-11,Midwest
+2010-01-01,-6,Illinois
+2010-01-01,-7,Canada
+2010-01-01,-3,Northeast
+2010-01-01,2,South Carolina
+2010-01-01,3,Oregon
+2010-01-01,-3,Connecticut
+2010-01-01,11,Other Southeast
+2010-01-01,-8,New Mexico
+2010-01-01,0,Georgia
+2010-01-01,19,Australia
+2010-01-01,7,Arizona
+2010-01-01,-3,Other Northeast
+2010-01-01,-3,New York
+2010-01-01,-11,Other Midwest
+2010-01-01,5,Mexico
+2010-01-01,-5,Ohio
+2010-01-01,-7,South Korea
+2010-01-01,10,Other Southwest
+2010-01-01,2,Japan
+2010-01-01,10,California
+2010-01-01,4,Texas
+2010-01-01,-3,New Jersey
+2010-01-01,11,Southeast
+2010-01-01,11,Florida
+2010-01-01,-6,Michigan
+2010-01-01,4,Nevada
+2010-01-01,10,Southwest
+2010-02-01,10,California
+2010-02-01,-2,New Jersey
+2010-02-01,19,Australia
+2010-02-01,6,Mexico
+2010-02-01,12,Other Southeast
+2010-02-01,6,Texas
+2010-02-01,2,Japan
+2010-02-01,12,Florida
+2010-02-01,-2,Connecticut
+2010-02-01,-7,Canada
+2010-02-01,10,Other Southwest
+2010-02-01,-9,Other Midwest
+2010-02-01,10,Southwest
+2010-02-01,4,South Carolina
+2010-02-01,-2,New York
+2010-02-01,6,Nevada
+2010-02-01,-4,Michigan
+2010-02-01,-2,Northeast
+2010-02-01,-4,South Korea
+2010-02-01,2,Georgia
+2010-02-01,3,Oregon
+2010-02-01,-4,Illinois
+2010-02-01,9,Arizona
+2010-02-01,-5,Ohio
+2010-02-01,-6,New Mexico
+2010-02-01,-2,Other Northeast
+2010-02-01,12,Southeast
+2010-02-01,-9,Midwest
+2010-03-01,14,Southeast
+2010-03-01,9,Nevada
+2010-03-01,5,Japan
+2010-03-01,1,Michigan
+2010-03-01,11,Other Southwest
+2010-03-01,14,Other Southeast
+2010-03-01,1,Illinois
+2010-03-01,11,Southwest
+2010-03-01,2,New Jersey
+2010-03-01,8,South Carolina
+2010-03-01,0,Ohio
+2010-03-01,11,California
+2010-03-01,14,Florida
+2010-03-01,-2,Canada
+2010-03-01,-5,Other Midwest
+2010-03-01,1,South Korea
+2010-03-01,10,Texas
+2010-03-01,2,Other Northeast
+2010-03-01,2,New York
+2010-03-01,-5,Midwest
+2010-03-01,11,Arizona
+2010-03-01,18,Australia
+2010-03-01,8,Mexico
+2010-03-01,6,Georgia
+2010-03-01,-3,New Mexico
+2010-03-01,2,Northeast
+2010-03-01,2,Connecticut
+2010-03-01,5,Oregon
+2010-04-01,13,Southwest
+2010-04-01,6,Michigan
+2010-04-01,6,Oregon
+2010-04-01,5,Ohio
+2010-04-01,13,Other Southwest
+2010-04-01,6,Illinois
+2010-04-01,10,Japan
+2010-04-01,4,Canada
+2010-04-01,9,Georgia
+2010-04-01,10,Mexico
+2010-04-01,15,Australia
+2010-04-01,7,South Korea
+2010-04-01,-1,Other Midwest
+2010-04-01,0,New Mexico
+2010-04-01,12,South Carolina
+2010-04-01,12,Nevada
+2010-04-01,7,Connecticut
+2010-04-01,13,California
+2010-04-01,-1,Midwest
+2010-04-01,17,Southeast
+2010-04-01,17,Other Southeast
+2010-04-01,7,New York
+2010-04-01,7,Northeast
+2010-04-01,14,Texas
+2010-04-01,15,Arizona
+2010-04-01,7,Other Northeast
+2010-04-01,7,New Jersey
+2010-04-01,17,Florida
+2010-05-01,20,Arizona
+2010-05-01,5,New Mexico
+2010-05-01,12,New Jersey
+2010-05-01,15,Japan
+2010-05-01,12,Illinois
+2010-05-01,12,Connecticut
+2010-05-01,15,California
+2010-05-01,20,Other Southeast
+2010-05-01,14,Georgia
+2010-05-01,12,Northeast
+2010-05-01,12,Mexico
+2010-05-01,13,South Korea
+2010-05-01,12,Other Northeast
+2010-05-01,12,New York
+2010-05-01,12,Australia
+2010-05-01,9,Oregon
+2010-05-01,10,Canada
+2010-05-01,16,South Carolina
+2010-05-01,4,Other Midwest
+2010-05-01,15,Southwest
+2010-05-01,20,Southeast
+2010-05-01,4,Midwest
+2010-05-01,15,Other Southwest
+2010-05-01,18,Nevada
+2010-05-01,12,Ohio
+2010-05-01,12,Michigan
+2010-05-01,19,Texas
+2010-05-01,20,Florida
+2010-06-01,23,Southeast
+2010-06-01,18,Northeast
+2010-06-01,23,Florida
+2010-06-01,13,Mexico
+2010-06-01,18,South Korea
+2010-06-01,17,Michigan
+2010-06-01,18,New York
+2010-06-01,17,Southwest
+2010-06-01,23,Nevada
+2010-06-01,9,Midwest
+2010-06-01,9,Australia
+2010-06-01,17,California
+2010-06-01,12,Oregon
+2010-06-01,18,Other Northeast
+2010-06-01,20,South Carolina
+2010-06-01,18,Georgia
+2010-06-01,17,Illinois
+2010-06-01,23,Other Southeast
+2010-06-01,24,Arizona
+2010-06-01,10,New Mexico
+2010-06-01,15,Canada
+2010-06-01,23,Texas
+2010-06-01,17,Other Southwest
+2010-06-01,17,Ohio
+2010-06-01,18,Connecticut
+2010-06-01,19,Japan
+2010-06-01,18,New Jersey
+2010-06-01,9,Other Midwest
+2010-07-01,12,Other Midwest
+2010-07-01,21,Other Northeast
+2010-07-01,21,Illinois
+2010-07-01,12,Midwest
+2010-07-01,21,Michigan
+2010-07-01,20,Ohio
+2010-07-01,22,South Korea
+2010-07-01,13,New Mexico
+2010-07-01,21,Northeast
+2010-07-01,26,Nevada
+2010-07-01,28,Arizona
+2010-07-01,21,Georgia
+2010-07-01,24,Southeast
+2010-07-01,14,Oregon
+2010-07-01,24,Other Southeast
+2010-07-01,18,California
+2010-07-01,21,New Jersey
+2010-07-01,18,Canada
+2010-07-01,21,Connecticut
+2010-07-01,24,Florida
+2010-07-01,18,Southwest
+2010-07-01,22,South Carolina
+2010-07-01,18,Other Southwest
+2010-07-01,12,Mexico
+2010-07-01,8,Australia
+2010-07-01,21,New York
+2010-07-01,25,Texas
+2010-07-01,23,Japan
+2010-08-01,24,Southeast
+2010-08-01,20,Connecticut
+2010-08-01,21,Illinois
+2010-08-01,24,Japan
+2010-08-01,22,South Carolina
+2010-08-01,20,Ohio
+2010-08-01,25,Nevada
+2010-08-01,19,Southwest
+2010-08-01,27,Arizona
+2010-08-01,11,Midwest
+2010-08-01,24,Florida
+2010-08-01,21,Michigan
+2010-08-01,19,California
+2010-08-01,24,Other Southeast
+2010-08-01,18,Canada
+2010-08-01,19,Other Southwest
+2010-08-01,20,Georgia
+2010-08-01,25,Texas
+2010-08-01,20,New Jersey
+2010-08-01,12,Mexico
+2010-08-01,22,South Korea
+2010-08-01,20,New York
+2010-08-01,12,New Mexico
+2010-08-01,20,Other Northeast
+2010-08-01,20,Northeast
+2010-08-01,14,Oregon
+2010-08-01,11,Other Midwest
+2010-08-01,9,Australia
+2010-09-01,17,Georgia
+2010-09-01,18,Southwest
+2010-09-01,5,Midwest
+2010-09-01,11,Australia
+2010-09-01,23,Florida
+2010-09-01,8,New Mexico
+2010-09-01,17,Michigan
+2010-09-01,19,South Carolina
+2010-09-01,18,California
+2010-09-01,16,Other Northeast
+2010-09-01,5,Other Midwest
+2010-09-01,16,Ohio
+2010-09-01,12,Mexico
+2010-09-01,21,Japan
+2010-09-01,23,Other Southeast
+2010-09-01,18,Other Southwest
+2010-09-01,17,South Korea
+2010-09-01,21,Texas
+2010-09-01,21,Nevada
+2010-09-01,14,Canada
+2010-09-01,17,Illinois
+2010-09-01,16,Northeast
+2010-09-01,12,Oregon
+2010-09-01,16,Connecticut
+2010-09-01,16,New Jersey
+2010-09-01,23,Southeast
+2010-09-01,24,Arizona
+2010-09-01,16,New York
+2010-10-01,8,Oregon
+2010-10-01,14,Nevada
+2010-10-01,12,South Carolina
+2010-10-01,10,New Jersey
+2010-10-01,18,Arizona
+2010-10-01,10,Michigan
+2010-10-01,0,Midwest
+2010-10-01,20,Southeast
+2010-10-01,15,Texas
+2010-10-01,10,Northeast
+2010-10-01,10,Other Northeast
+2010-10-01,10,New York
+2010-10-01,10,Connecticut
+2010-10-01,20,Other Southeast
+2010-10-01,20,Florida
+2010-10-01,16,California
+2010-10-01,16,Other Southwest
+2010-10-01,15,Japan
+2010-10-01,8,Canada
+2010-10-01,10,Mexico
+2010-10-01,16,Southwest
+2010-10-01,2,New Mexico
+2010-10-01,10,South Korea
+2010-10-01,0,Other Midwest
+2010-10-01,10,Ohio
+2010-10-01,10,Illinois
+2010-10-01,14,Australia
+2010-10-01,10,Georgia
+2010-11-01,15,Southeast
+2010-11-01,4,Illinois
+2010-11-01,-6,Midwest
+2010-11-01,5,New York
+2010-11-01,5,Northeast
+2010-11-01,10,Arizona
+2010-11-01,5,New Jersey
+2010-11-01,8,Nevada
+2010-11-01,5,Other Northeast
+2010-11-01,5,Georgia
+2010-11-01,4,Ohio
+2010-11-01,9,Texas
+2010-11-01,2,South Korea
+2010-11-01,7,Mexico
+2010-11-01,5,Oregon
+2010-11-01,-4,New Mexico
+2010-11-01,9,Japan
+2010-11-01,16,Australia
+2010-11-01,12,Other Southwest
+2010-11-01,5,Connecticut
+2010-11-01,12,Southwest
+2010-11-01,12,California
+2010-11-01,-6,Other Midwest
+2010-11-01,7,South Carolina
+2010-11-01,15,Florida
+2010-11-01,15,Other Southeast
+2010-11-01,4,Michigan
+2010-11-01,2,Canada
+2010-12-01,7,Arizona
+2010-12-01,-8,New Mexico
+2010-12-01,5,Texas
+2010-12-01,4,South Carolina
+2010-12-01,0,New Jersey
+2010-12-01,-10,Midwest
+2010-12-01,0,Northeast
+2010-12-01,0,Other Northeast
+2010-12-01,0,New York
+2010-12-01,0,Connecticut
+2010-12-01,12,Other Southeast
+2010-12-01,12,Florida
+2010-12-01,9,California
+2010-12-01,9,Southwest
+2010-12-01,9,Other Southwest
+2010-12-01,12,Southeast
+2010-12-01,-3,Canada
+2010-12-01,3,Oregon
+2010-12-01,4,Japan
+2010-12-01,-3,Michigan
+2010-12-01,-1,Ohio
+2010-12-01,-3,Illinois
+2010-12-01,3,Nevada
+2010-12-01,-4,South Korea
+2010-12-01,-10,Other Midwest
+2010-12-01,18,Australia
+2010-12-01,6,Mexico
+2010-12-01,2,Georgia
+2011-01-01,0,Georgia
+2011-01-01,-8,New Mexico
+2011-01-01,7,Arizona
+2011-01-01,-7,South Korea
+2011-01-01,-11,Other Midwest
+2011-01-01,-3,New York
+2011-01-01,19,Australia
+2011-01-01,5,Mexico
+2011-01-01,-3,Connecticut
+2011-01-01,10,Other Southwest
+2011-01-01,-7,Canada
+2011-01-01,11,Other Southeast
+2011-01-01,2,Japan
+2011-01-01,4,Texas
+2011-01-01,11,Florida
+2011-01-01,10,Southwest
+2011-01-01,-3,New Jersey
+2011-01-01,10,California
+2011-01-01,-3,Northeast
+2011-01-01,2,South Carolina
+2011-01-01,3,Oregon
+2011-01-01,-3,Other Northeast
+2011-01-01,-5,Ohio
+2011-01-01,-6,Illinois
+2011-01-01,-6,Michigan
+2011-01-01,4,Nevada
+2011-01-01,-11,Midwest
+2011-01-01,11,Southeast
+2011-02-01,-4,Michigan
+2011-02-01,-5,Ohio
+2011-02-01,-2,New York
+2011-02-01,10,Other Southwest
+2011-02-01,19,Australia
+2011-02-01,-9,Other Midwest
+2011-02-01,2,Japan
+2011-02-01,12,Florida
+2011-02-01,12,Other Southeast
+2011-02-01,-6,New Mexico
+2011-02-01,-2,Connecticut
+2011-02-01,-7,Canada
+2011-02-01,12,Southeast
+2011-02-01,6,Mexico
+2011-02-01,4,South Carolina
+2011-02-01,-4,South Korea
+2011-02-01,-4,Illinois
+2011-02-01,-2,Northeast
+2011-02-01,6,Nevada
+2011-02-01,2,Georgia
+2011-02-01,-2,New Jersey
+2011-02-01,3,Oregon
+2011-02-01,9,Arizona
+2011-02-01,-9,Midwest
+2011-02-01,6,Texas
+2011-02-01,10,California
+2011-02-01,-2,Other Northeast
+2011-02-01,10,Southwest
+2011-03-01,-3,New Mexico
+2011-03-01,11,Other Southwest
+2011-03-01,14,Florida
+2011-03-01,2,New Jersey
+2011-03-01,14,Other Southeast
+2011-03-01,10,Texas
+2011-03-01,11,Southwest
+2011-03-01,1,Michigan
+2011-03-01,9,Nevada
+2011-03-01,5,Japan
+2011-03-01,8,South Carolina
+2011-03-01,-5,Midwest
+2011-03-01,11,Arizona
+2011-03-01,11,California
+2011-03-01,-5,Other Midwest
+2011-03-01,2,Other Northeast
+2011-03-01,-2,Canada
+2011-03-01,14,Southeast
+2011-03-01,2,New York
+2011-03-01,18,Australia
+2011-03-01,1,Illinois
+2011-03-01,5,Oregon
+2011-03-01,8,Mexico
+2011-03-01,0,Ohio
+2011-03-01,2,Connecticut
+2011-03-01,2,Northeast
+2011-03-01,6,Georgia
+2011-03-01,1,South Korea
+2011-04-01,13,Southwest
+2011-04-01,6,Illinois
+2011-04-01,9,Georgia
+2011-04-01,7,South Korea
+2011-04-01,10,Japan
+2011-04-01,-1,Other Midwest
+2011-04-01,15,Australia
+2011-04-01,10,Mexico
+2011-04-01,13,Other Southwest
+2011-04-01,12,South Carolina
+2011-04-01,6,Michigan
+2011-04-01,5,Ohio
+2011-04-01,4,Canada
+2011-04-01,6,Oregon
+2011-04-01,0,New Mexico
+2011-04-01,12,Nevada
+2011-04-01,7,Connecticut
+2011-04-01,17,Florida
+2011-04-01,14,Texas
+2011-04-01,7,New Jersey
+2011-04-01,7,Northeast
+2011-04-01,15,Arizona
+2011-04-01,7,Other Northeast
+2011-04-01,7,New York
+2011-04-01,17,Other Southeast
+2011-04-01,17,Southeast
+2011-04-01,-1,Midwest
+2011-04-01,13,California
+2011-05-01,12,New Jersey
+2011-05-01,15,Japan
+2011-05-01,5,New Mexico
+2011-05-01,12,Illinois
+2011-05-01,19,Texas
+2011-05-01,12,Connecticut
+2011-05-01,15,California
+2011-05-01,20,Other Southeast
+2011-05-01,14,Georgia
+2011-05-01,12,Northeast
+2011-05-01,12,Mexico
+2011-05-01,13,South Korea
+2011-05-01,12,Other Northeast
+2011-05-01,12,New York
+2011-05-01,12,Australia
+2011-05-01,9,Oregon
+2011-05-01,10,Canada
+2011-05-01,16,South Carolina
+2011-05-01,4,Other Midwest
+2011-05-01,20,Southeast
+2011-05-01,20,Arizona
+2011-05-01,20,Florida
+2011-05-01,15,Other Southwest
+2011-05-01,4,Midwest
+2011-05-01,12,Ohio
+2011-05-01,18,Nevada
+2011-05-01,15,Southwest
+2011-05-01,12,Michigan
+2011-06-01,23,Other Southeast
+2011-06-01,18,Northeast
+2011-06-01,23,Florida
+2011-06-01,13,Mexico
+2011-06-01,18,South Korea
+2011-06-01,9,Midwest
+2011-06-01,23,Nevada
+2011-06-01,18,New York
+2011-06-01,18,Other Northeast
+2011-06-01,9,Australia
+2011-06-01,17,California
+2011-06-01,12,Oregon
+2011-06-01,17,Michigan
+2011-06-01,20,South Carolina
+2011-06-01,17,Southwest
+2011-06-01,17,Illinois
+2011-06-01,18,Georgia
+2011-06-01,17,Other Southwest
+2011-06-01,24,Arizona
+2011-06-01,15,Canada
+2011-06-01,19,Japan
+2011-06-01,9,Other Midwest
+2011-06-01,18,Connecticut
+2011-06-01,10,New Mexico
+2011-06-01,23,Texas
+2011-06-01,23,Southeast
+2011-06-01,18,New Jersey
+2011-06-01,17,Ohio
+2011-07-01,12,Other Midwest
+2011-07-01,21,Other Northeast
+2011-07-01,21,Illinois
+2011-07-01,12,Midwest
+2011-07-01,20,Ohio
+2011-07-01,22,South Korea
+2011-07-01,13,New Mexico
+2011-07-01,26,Nevada
+2011-07-01,21,Northeast
+2011-07-01,28,Arizona
+2011-07-01,21,Georgia
+2011-07-01,21,Michigan
+2011-07-01,24,Southeast
+2011-07-01,14,Oregon
+2011-07-01,22,South Carolina
+2011-07-01,18,Canada
+2011-07-01,23,Japan
+2011-07-01,12,Mexico
+2011-07-01,25,Texas
+2011-07-01,21,New York
+2011-07-01,24,Other Southeast
+2011-07-01,8,Australia
+2011-07-01,24,Florida
+2011-07-01,21,Connecticut
+2011-07-01,18,California
+2011-07-01,21,New Jersey
+2011-07-01,18,Southwest
+2011-07-01,18,Other Southwest
+2011-08-01,24,Japan
+2011-08-01,24,Southeast
+2011-08-01,21,Illinois
+2011-08-01,19,Other Southwest
+2011-08-01,20,Connecticut
+2011-08-01,20,Ohio
+2011-08-01,25,Nevada
+2011-08-01,22,South Carolina
+2011-08-01,11,Midwest
+2011-08-01,24,Florida
+2011-08-01,21,Michigan
+2011-08-01,19,California
+2011-08-01,27,Arizona
+2011-08-01,24,Other Southeast
+2011-08-01,20,Georgia
+2011-08-01,19,Southwest
+2011-08-01,20,Northeast
+2011-08-01,18,Canada
+2011-08-01,14,Oregon
+2011-08-01,12,Mexico
+2011-08-01,22,South Korea
+2011-08-01,12,New Mexico
+2011-08-01,9,Australia
+2011-08-01,11,Other Midwest
+2011-08-01,20,New York
+2011-08-01,25,Texas
+2011-08-01,20,New Jersey
+2011-08-01,20,Other Northeast
+2011-09-01,19,South Carolina
+2011-09-01,12,Oregon
+2011-09-01,11,Australia
+2011-09-01,5,Other Midwest
+2011-09-01,17,Michigan
+2011-09-01,18,California
+2011-09-01,5,Midwest
+2011-09-01,18,Southwest
+2011-09-01,8,New Mexico
+2011-09-01,16,New Jersey
+2011-09-01,23,Florida
+2011-09-01,17,Georgia
+2011-09-01,23,Other Southeast
+2011-09-01,24,Arizona
+2011-09-01,21,Texas
+2011-09-01,14,Canada
+2011-09-01,23,Southeast
+2011-09-01,16,New York
+2011-09-01,16,Connecticut
+2011-09-01,16,Ohio
+2011-09-01,21,Japan
+2011-09-01,16,Other Northeast
+2011-09-01,21,Nevada
+2011-09-01,16,Northeast
+2011-09-01,18,Other Southwest
+2011-09-01,17,South Korea
+2011-09-01,12,Mexico
+2011-09-01,17,Illinois
+2011-10-01,14,Nevada
+2011-10-01,10,New Jersey
+2011-10-01,12,South Carolina
+2011-10-01,8,Oregon
+2011-10-01,18,Arizona
+2011-10-01,10,Michigan
+2011-10-01,0,Midwest
+2011-10-01,15,Texas
+2011-10-01,20,Southeast
+2011-10-01,10,Northeast
+2011-10-01,10,Other Northeast
+2011-10-01,10,New York
+2011-10-01,10,Connecticut
+2011-10-01,20,Other Southeast
+2011-10-01,20,Florida
+2011-10-01,16,California
+2011-10-01,16,Other Southwest
+2011-10-01,15,Japan
+2011-10-01,8,Canada
+2011-10-01,10,Mexico
+2011-10-01,16,Southwest
+2011-10-01,2,New Mexico
+2011-10-01,10,South Korea
+2011-10-01,0,Other Midwest
+2011-10-01,10,Ohio
+2011-10-01,10,Illinois
+2011-10-01,14,Australia
+2011-10-01,10,Georgia
+2011-11-01,4,Illinois
+2011-11-01,15,Southeast
+2011-11-01,4,Ohio
+2011-11-01,5,New York
+2011-11-01,5,Northeast
+2011-11-01,10,Arizona
+2011-11-01,5,New Jersey
+2011-11-01,8,Nevada
+2011-11-01,5,Other Northeast
+2011-11-01,5,Georgia
+2011-11-01,9,Texas
+2011-11-01,-6,Midwest
+2011-11-01,2,South Korea
+2011-11-01,7,Mexico
+2011-11-01,5,Oregon
+2011-11-01,2,Canada
+2011-11-01,-4,New Mexico
+2011-11-01,16,Australia
+2011-11-01,12,Other Southwest
+2011-11-01,5,Connecticut
+2011-11-01,12,Southwest
+2011-11-01,12,California
+2011-11-01,-6,Other Midwest
+2011-11-01,7,South Carolina
+2011-11-01,15,Florida
+2011-11-01,15,Other Southeast
+2011-11-01,4,Michigan
+2011-11-01,9,Japan
+2011-12-01,-8,New Mexico
+2011-12-01,7,Arizona
+2011-12-01,-3,Canada
+2011-12-01,4,South Carolina
+2011-12-01,-10,Midwest
+2011-12-01,12,Southeast
+2011-12-01,0,Northeast
+2011-12-01,0,Other Northeast
+2011-12-01,0,New York
+2011-12-01,0,Connecticut
+2011-12-01,12,Other Southeast
+2011-12-01,12,Florida
+2011-12-01,9,California
+2011-12-01,9,Southwest
+2011-12-01,0,New Jersey
+2011-12-01,9,Other Southwest
+2011-12-01,6,Mexico
+2011-12-01,18,Australia
+2011-12-01,-10,Other Midwest
+2011-12-01,-4,South Korea
+2011-12-01,2,Georgia
+2011-12-01,-3,Illinois
+2011-12-01,-1,Ohio
+2011-12-01,-3,Michigan
+2011-12-01,3,Nevada
+2011-12-01,3,Oregon
+2011-12-01,4,Japan
+2011-12-01,5,Texas
