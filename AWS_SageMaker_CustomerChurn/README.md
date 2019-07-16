@@ -1,5 +1,5 @@
 # Telecom Customer Churn Prediction
-Customer attrition, also known as customer churn, customer turnover, or customer defection, is the loss of clients or customers. (Data resource from Kaggle) [Telco Customer Churn Data](https://www.kaggle.com/blastchar/telco-customer-churn/kernels) 
+Customer attrition, also known as customer churn, customer turnover, or customer defection, is the loss of clients or customers. (Data resource from Kaggle) [Telco Customer Churn Data](https://www.kaggle.com/blastchar/telco-customer-churn/kernels)
 ## Author
 - Yiran Jing
 
@@ -18,16 +18,17 @@ Customer attrition, also known as customer churn, customer turnover, or customer
 - The example that how to **create customised ML model used in Amazon sageMaker** using use **Lambda functions** to run batch transform jobs and to clean the data. Details see: [Customised XGBoost Amazon SageMaker Notebook](https://github.com/YiranJing/BigDataAnalysis/blob/master/AWS_SageMaker_CustomerChurn/notebook/AmazonSageMaker/AWS_CUSTOMISED_MODEL_DEPLOYMENT.ipynb)
 
 ## AWS Machine Learning: Amazon Forecast
-A managed time series forecasting service that uses AWS machine learning technology. 
-- This service can **automatically build and train predictive models**. 
-- To use Amazon Forecast, provide time series data, which can be in one or more data sets, and then choose an algorithm or let the service choose one for you. The service also supports custom algorithms, so organizations can import their own from Amazon SageMaker. 
-- Amazon Forecast will only be as good as the data you migrate into the service. The more **quality data** you migrate, the better Amazon Forecast can predict
+Time series forecasting combining related data and ML models.
+
+coming soon
 
 ## Amazon Compute: AWS Lambda
-### Part 1: AWS Lambda Functions on S3 Event Triggers invoking (ML model) endpoint 
+### Part 1: AWS Lambda Functions on S3 Event Triggers invoking (ML model) endpoint
 Using the built XGBoost endpoint from [Amazon Sagemaker of Customer Churn](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_SageMaker_CustomerChurn/notebook/AmazonSageMaker). You can find [Notes](https://github.com/YiranJing/BigDataAnalysis/blob/master/AWS_lambda_CustomerChurn/Lambda_Function_Notes.pdf) here. And the [source code](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_lambda_CustomerChurn/MyFirstFunction)
-### Part 2: Clean data within AWS Lambda Function
-Install and using Pandas and Numpy in AWS Lambda execution environment. 
+### Part 2: AWS Lambda Functions on S3 Event Triggers calling batch transformation using trained ML model
+Using the built XGBoost model from [Amazon Sagemaker of Customer Churn](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_SageMaker_CustomerChurn/notebook/AmazonSageMaker). You can find [Notes](https://github.com/YiranJing/BigDataAnalysis/blob/master/AWS_lambda_callBatch_CustomerChurn/Lambda_Function_Batch_notes.pdf) here. And the [source code](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_lambda_callBatch_CustomerChurn/Batch_Transform_Test)
+### Part 3: Clean data within AWS Lambda Function
+Install and using Pandas and Numpy in AWS Lambda execution environment.
 
 
 
