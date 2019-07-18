@@ -4,6 +4,17 @@
 #   Date:16-07-2019
 #####################################################
 
+"""
+Use this code in other data case, you just need to modify 
+1. the environmental variables through the Lambda function console 
+2. The path or S3 trigger event (the path of input datafile)
+3. Rename the transformJobName
+
+To check if Lambda function work:
+1. Check through Amazon SageMaker interface: click Batch Transform jobs to see if the lambda function triggered new batch job.
+2. After Batch job finish, go to output folder to check if the output file 'xxx.csv.out' exits. 
+3. To understand model performance, download data or re-readin sageMaker notebook. 
+"""
 
 import json
 import boto3
@@ -17,15 +28,13 @@ from pprint import pprint
 from time import strftime, gmtime
 from json import dumps, loads, JSONEncoder, JSONDecoder
 from six.moves import urllib
-"""
-In other use case, you can only modify the following variables and then copy left parts to your lambda function.
-bucket, output_key, batch_output, Modelname, transformJobName.
-"""
-bucket = 'taysolsdev'
-output_key = 'datasets/churn/output/'
+
+
+bucket = os.environ['BUCKET']
+output_key = os.environ['KEY']
 client = boto3.client('sagemaker')
 batch_output = 's3://{}/{}'.format(bucket, output_key) # specify the location of batch output
-Modelname = 'xgboost-2019-07-16-00-26-47-648' # the model name we already have
+Modelname = os.environ['MODELNAME'] # the model name we already have
 transformJobName = 'transformLambda-xgboost-Churn'+ strftime("%Y-%m-%d-%H-%M-%S", gmtime())
 
 def lambda_handler(event, context):
@@ -33,7 +42,7 @@ def lambda_handler(event, context):
     bucket_name = event['Records'][0]['s3']['bucket']['name'] # should be used
     file_key = event['Records'][0]['s3']['object']['key']
     batch_input = 's3://{}/{}'.format(bucket_name, file_key)
-
+    
     response = client.create_transform_job(
     TransformJobName=transformJobName,
     ModelName=Modelname,
