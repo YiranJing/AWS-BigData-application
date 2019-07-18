@@ -23,13 +23,23 @@ Time series forecasting combining related data and ML models.
 coming soon
 
 ## Amazon Compute: AWS Lambda
-### Part 1: AWS Lambda Functions on S3 Event Triggers invoking (ML model) endpoint
+### Part 1: Real-time Predictions: AWS Lambda Functions on S3 Event Triggers invoking (ML model) endpoint
 Using the built XGBoost endpoint from [Amazon Sagemaker of Customer Churn](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_SageMaker_CustomerChurn/notebook/AmazonSageMaker). You can find [Notes](https://github.com/YiranJing/BigDataAnalysis/blob/master/AWS_lambda_CustomerChurn/Lambda_Function_Notes.pdf) here. And the [source code](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_lambda_CustomerChurn/MyFirstFunction)
-### Part 2: AWS Lambda Functions on S3 Event Triggers calling batch transformation using trained ML model
-Using the built XGBoost model from [Amazon Sagemaker of Customer Churn](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_SageMaker_CustomerChurn/notebook/AmazonSageMaker). You can find [Notes](https://github.com/YiranJing/BigDataAnalysis/blob/master/AWS_lambda_callBatch_CustomerChurn/Lambda_Function_Batch_notes.pdf) here. And the [source code](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_lambda_callBatch_CustomerChurn/Batch_Transform_Test)
-### Part 3: Clean data within AWS Lambda Function
-Install and using Pandas and Numpy in AWS Lambda execution environment.
 
+
+### Part 2: Batch Predictions: AWS Lambda Functions on S3 Event Triggers calling batch transformation using trained ML model
+Using the built XGBoost model from [Amazon Sagemaker of Customer Churn](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_SageMaker_CustomerChurn/notebook/AmazonSageMaker). You can find [Notes](https://github.com/YiranJing/BigDataAnalysis/blob/master/AWS_lambda_callBatch_CustomerChurn/Lambda_Function_Batch_notes.pdf) here. And the [source code](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_lambda_callBatch_CustomerChurn/Batch_Transform_Test)
+
+
+
+### Part 3: Handle large input dataset in Lambda Function
+Since the maximum running time for lambda function is 15 mins, to handle the input file:
+1. The **easist way** is creating and running a new Batch Jobs in lambda function [source code](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_lambda_callBatch_CustomerChurn/Batch_Transform_Test). Easiest coding in lambda function but much larger I/O cost than in-point predictions.
+2. You can build MapReduce Algo within Real-time Predictions [source code](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_lambda_CustomerChurn/MyFirstFunction). More coding needed but it is a more flexible version, which can easily join the predictions with the input file.
+
+
+### Part 4: Using Custom Library in AWS lambda
+In many cases, we want use custom libraries within Lambda function. For example, using Pandas and Numpy to manupuate dataset (such as clean row data and merge dateset etc.) within Lambda function, then, we need to install Pandas and Numpy in AWS Lambda execution environment. [Click me to see how to do it](https://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html). The disadvantage of using custom library is that we cannot do in-line coding and debug within Lambda function console, instand, we have to write up lambda function and upload it as a zip file. 
 
 
 
