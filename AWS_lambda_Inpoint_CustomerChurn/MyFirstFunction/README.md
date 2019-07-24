@@ -3,7 +3,7 @@ To start Lambda function easier: try batch job first [Source code](https://githu
 
 Use this code in other data case, you just need to modify 
 1. the environmental variables through the Lambda function console 
-2. The path or S3 trigger event (the path of input datafile)
+2. The perfix of S3 trigger event (the path of input data folder)
 3. Rename the transformJobName
 
 To check if Lambda function work:
