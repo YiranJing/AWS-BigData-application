@@ -15,6 +15,13 @@ Amazon is a powerful ML tools for time series forecasting. And the key point for
 
 ### AWS forecast [notes](https://github.com/YiranJing/BigDataAnalysis/blob/master/AWS_Forecast_GolfwithWeather/Amazon_Forecast_notes.pdf)
 Modeling, Deploying, and Forecasting using Amazon forecast console.
+New APIs after 7/23/19. New Featuers:
+1. Forecast dimensions - Selective keys to generate forecasting. (Item_id by default: the only choice in old version).
+2. Country for holidays - the holoday calendar want to include in models.
+3. Number of backtest windows - The number of times that the algorithm splits the input data for use in training and evaluation. **Backtesting**: Backtesting assesses the viability of a model by discovering how it would play out using historical data. Backtesting can be an important step in optimizing your trading strategy.
+4. Backetest window offset - The point in the dataset where you want to splitmthe data for model training and validation
+5. Training subsample ratio(between 0 and 1): The percentage of items as the training data. 
+
 
 
 ### DeepAR+ Recipe [details](https://docs.aws.amazon.com/forecast/latest/dg/aws-forecast-recipe-deeparplus.html#aws-forecast-recipe-deeparplus-how-it-works)
