@@ -39,7 +39,12 @@ The Amazon Forecast DeepAR+ algorithm improves upon the Amazon SageMaker DeepAR 
 1. Learning rate scheduling
 2. Model averaging
 3. Weighted sampling
-
+- [Univarate DeepAR+ Notebook](https://github.com/YiranJing/BigDataAnalysis/blob/master/AWS_Forecast_GolfwithWeather/notebook/Univariate_DeepAR_Train_Deploy_Validation.ipynb) 
+- [Multivarate DeepAR+ Notebook](https://github.com/YiranJing/BigDataAnalysis/blob/master/AWS_Forecast_GolfwithWeather/notebook/Multivariate_DeepAR_Train_Deploy_Validation.ipynb)
+Process:
+- Create input data(Json format), can combine muptiple realated time series data.
+- Train and Deploy model
+- Validation: MAPE and plot visualization.
 
 
 ### Further discuss about model choice
