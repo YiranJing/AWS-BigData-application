@@ -1,5 +1,5 @@
 # Amazon Forecast
-Amazon is a powerful ML tools for time series forecasting. And the key point for user-defined is **the quality of input data**
+Amazon is a powerful ML tools for time series forecasting. 
 ##### Author: Yiran Jing
 ##### Date: 15-07-2019
 ### Dataset Description
