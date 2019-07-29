@@ -43,7 +43,7 @@ The Amazon Forecast DeepAR+ algorithm improves upon the Amazon SageMaker DeepAR 
 - [Bivariate DeepAR+ Notebook](https://github.com/YiranJing/BigDataAnalysis/blob/master/AWS_Forecast_GolfwithWeather/notebook/Bivariate_DeepAR_Train_Deploy_Validation.ipynb)  Target time series and one related time series data
 - [Multivarate DeepAR+ Notebook](https://github.com/YiranJing/BigDataAnalysis/blob/master/AWS_Forecast_GolfwithWeather/notebook/Multivariate_DeepAR_Train_Deploy_Validation.ipynb) Target time series and five related time series data
 ##### Process:
-- Create input data(Json format), can combine muptiple realated time series data.
+- Create input data(**Json format**), can combine muptiple realated time series data. See example [The Json format of target time series data with five related time series](https://github.com/YiranJing/BigDataAnalysis/blob/master/AWS_Forecast_GolfwithWeather/data/GolfDataforecast/MultivariateDeepAR/Golf_all_weatherdata/test/test.json). the code converting CSV to JOSN is in [Multivariate DeepAR notebook](https://github.com/YiranJing/BigDataAnalysis/blob/master/AWS_Forecast_GolfwithWeather/notebook/Multivariate_DeepAR_Train_Deploy_Validation.ipynb)
 - Train and Deploy model
 - Validation: MAPE and plot visualization.
 
