@@ -47,6 +47,15 @@ The Amazon Forecast DeepAR+ algorithm improves upon the Amazon SageMaker DeepAR 
 - Train and Deploy model
 - Validation: MAPE and plot visualization.
 
+###### Univariate Time Series Model:
+Using target time series data only for modelling. That is, use only past observations to predict itself in the future. In our example, our goal is predicting amount for each region, and thus, we only need dataset include three columns: month, region, amount.
+
+###### Bivariate Time Series Model:
+Using target time series and one additional related time series data for modelling. In our case, we can use rainfall information for each month and each region to help our predictions for amount in each region each month.
+
+###### Multivariate Time Series Model:
+Using target time series and more than one additional related time series data for modelling. In our case, we can use rainfall, snowfall information for each month and each region to help our predictions for amount in each region each month.
+
 
 ### Further discuss about model choice
 
