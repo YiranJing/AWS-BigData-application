@@ -36,7 +36,7 @@ Using the built XGBoost model from [Amazon Sagemaker of Customer Churn](https://
 ### Part 3: Handle large input dataset in Lambda Function
 Since the maximum running time for lambda function is 15 mins, to handle the input file:
 1. The **easist way** is creating and running a new Batch Jobs in lambda function [source code](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_lambda_callBatch_CustomerChurn/Batch_Transform_Test). Easiest coding in lambda function but much larger I/O cost than in-point predictions.
-2. You can build MapReduce Algo within Real-time Predictions [source code](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_lambda_CustomerChurn/MyFirstFunction). More coding needed but it is a more flexible version, which can easily join the predictions with the input file.
+2. You can build MapReduce Algo within Real-time Predictions [source code](https://github.com/YiranJing/AWS-application/tree/master/AWS_Lambda_MapReduce_CustomerChurn). More coding needed but it is a more flexible version, which can easily join the predictions with the input file.
 
 
 ### Part 4: Using Custom Library in AWS lambda
